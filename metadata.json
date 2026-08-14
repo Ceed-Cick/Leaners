@@ -1,0 +1,6 @@
+{
+  "name": "RUET MindMap AI",
+  "description": "AI-powered academic study assistant designed for RUET students to analyze course materials and identify weak topics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
